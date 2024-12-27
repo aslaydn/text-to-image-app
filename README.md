@@ -28,24 +28,11 @@
   <li>Adaptive storage handling</li>
   <li>Comprehensive error management</li>
 </ul>
-
+<br/>
 <h3>🏗️ Architecture<h3/>
-```mermaid  
-graph TD
-    A[UI Layer] --> B[MainActivity]
-    B --> C[Translation Service]
-    B --> D[Network Layer]
-    B --> E[Storage Service]
-    C --> F[Google ML Kit]
-    D --> G[HuggingFace API]
-    E --> H[Device Gallery]
+<img width="735" alt="image" src="https://github.com/user-attachments/assets/c70a16af-143b-4eba-9b64-2f8dd99e7695" />
 
-    style A fill:#e1f5fe
-    style B fill:#e1f5fe
-    style C fill:#fff3e0
-    style D fill:#fff3e0
-    style E fill:#fff3e0
-    style F fill:#f5f5f5
-    style G fill:#f5f5f5
-    style H fill:#f5f5f5
-    
+<br/>
+<h3>💫 User Flow<h3/>
+<img width="707" alt="image" src="https://github.com/user-attachments/assets/ec350c75-f91f-4535-9d44-2f9cb57f01cd" />
+<br/>
