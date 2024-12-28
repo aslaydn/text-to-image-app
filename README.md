@@ -36,3 +36,81 @@
 <h3>💫 User Flow<h3/>
 <img width="707" alt="image" src="https://github.com/user-attachments/assets/ec350c75-f91f-4535-9d44-2f9cb57f01cd" />
 <br/>
+
+<h3>🛠️ Tech Stack<h3/>
+<h3>Core Technologies<h3/>
+<ul>
+  <li>🎯 Kotlin: Primary programming language</li>
+  <li>🌐 ML Kit: Translation service</li>
+  <li>🖼️ HuggingFace: Image generation API</li>
+  <li>🔄 Coroutines: Asynchronous operations</li>
+  <li>📱 Material Design: UI components</li>
+  <li>💾 MediaStore: Storage management</li>
+</ul>
+
+<h3>Architecture Components<h3/>
+<ul>
+  <li>ViewBinding for UI interactions</li>
+  <li>Retrofit for network operations</li>
+  <li>Adaptive storage system for different Android version</li>
+  <li>Comprehensive error handling system</li>
+</ul>
+
+<h3>📱 Screenshots<h3/>
+<div align="center">
+  <img src="/api/placeholder/250/500" alt="Input Screen" width="200"/>
+  <img src="/api/placeholder/250/500" alt="Processing Screen" width="200"/>
+  <img src="/api/placeholder/250/500" alt="Result Screen" width="200"/>
+</div>
+
+<h3>⚙️ Setup & Installation<h3/>
+<ol>
+  <li>Clone the repository: 
+    <pre><code>git clone https://github.com/aslaydn/text-to-image-app.git</code></pre>
+  </li>
+  <li>Add your API key in <code>local.properties:</code>
+    <pre><code>HUGGING_FACE_API_KEY=your_api_key_here</code></pre>
+  </li>
+    <li>Required dependencies:
+    <pre><code>dependencies {
+    // ML Kit Translation
+    implementation 'com.google.mlkit:translate:17.0.1'
+    
+    // Retrofit for API calls
+    implementation 'com.squareup.retrofit2:retrofit:2.9.0'
+    implementation 'com.squareup.retrofit2:converter-gson:2.9.0'
+    
+    // Material Design
+    implementation 'com.google.android.material:material:1.9.0'
+}</code></pre>
+  </li>
+</ol>
+
+<h3>🚀 Getting Started<h3/>
+<ol>
+  <li>Input text in Turkish</li>
+  <li>Click "Generate Image" button</li>
+  <li>Wait for the translation and image generation</li>
+  <li>View the generated image</li>
+  <li>Save to gallery if desired</li>
+</ol>
+
+<h3>🤝 Contributing<h3/>
+<ol>
+  <li>Fork the repository</li>
+  <li>Create your feature branch <code>(git checkout -b feature/amazing-feature)</code></li>
+  <li>Commit your changes <code>(git commit -m 'feat: Add some amazing feature')</code></li>
+  <li>Push to the branch <code>(git push origin feature/amazing-feature)View the generated image</code></li>
+  <li>Open a Pull Request</li>
+</ol>
+
+<h3>🙏 Acknowledgments<h3/>
+<ul>
+  <li><a href="https://huggingface.co/ " style="color: inherit; text-decoration: none;">HuggingFace for AI model</a>
+
+</li>
+  <li><a href="https://developers.google.com/ml-kit" style="color: inherit; text-decoration: none;">Google ML Kit for translation services</a>
+</li>
+  <li><a href="https://material.io/design" style="color: inherit; text-decoration: none;">Material Design for UI components</a>
+</li>
+</ul>
