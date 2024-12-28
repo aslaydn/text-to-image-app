@@ -58,9 +58,9 @@
 
 <h3>📱 Screenshots<h3/>
 <div align="center">
-  <img src="/api/placeholder/250/500" alt="Input Screen" width="200"/>
-  <img src="/api/placeholder/250/500" alt="Processing Screen" width="200"/>
-  <img src="/api/placeholder/250/500" alt="Result Screen" width="200"/>
+  <img width="200"height="410" alt="image" src="https://github.com/user-attachments/assets/2dfeb0f4-c637-45a4-99bd-8465e31780a3" />
+  <img width="200" height="410" alt="image" src="https://github.com/user-attachments/assets/7eb7004c-5575-4cd6-bd11-e464aa055e3c" />
+  <img width="200" height="410" alt="image" src="https://github.com/user-attachments/assets/c66964f0-206a-4a7d-ac83-0f231e2f1707" />
 </div>
 
 <h3>⚙️ Setup & Installation<h3/>
